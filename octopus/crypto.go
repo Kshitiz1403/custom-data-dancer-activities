@@ -1,4 +1,4 @@
-package vendor
+package octopus
 
 import (
 	"fmt"

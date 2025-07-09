@@ -1,4 +1,4 @@
-package vendor
+package octopus
 
 import "github.com/finbox-in/data-dancer/v2/activities"
 
