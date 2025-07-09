@@ -1,4 +1,4 @@
-module github.com/finbox-in/custom-data-dancer-activities
+module github.com/kshitiz1403/custom-data-dancer-activities
 
 go 1.23
 
